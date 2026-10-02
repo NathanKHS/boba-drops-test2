@@ -1,9 +1,9 @@
-img{
+img {
     width: 200px;
 }
-body{
+
+body {
     text-align: center;
-    font-family: 'Comic Sans MS';
+    font-family: 'Comic Sans MS', cursive, sans-serif;
     background-color: lightblue;
-    
 }
