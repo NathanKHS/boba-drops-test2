@@ -4,8 +4,12 @@ img {
     margin: 10px;
 }
 
+.big-gif {
+    width: 300px; 
+}
+
 body {
     text-align: center;
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Comic Sans MS';
     background-color: lightblue;
 }
